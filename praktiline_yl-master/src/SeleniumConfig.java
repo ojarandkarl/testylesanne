@@ -97,6 +97,6 @@ public class CalculatorTest {
         System.out.println(links.size());
 
         //Kogu testrakenduse sulgemine
-        //driver.quit();
+        driver.quit();
     }
 }
